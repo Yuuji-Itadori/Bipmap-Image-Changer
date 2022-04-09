@@ -1,0 +1,16 @@
+C:\Users\Pluto\source\repos\Homework week3\Homework week3\bin\Debug\net5.0\Hw3.exe
+C:\Users\Pluto\source\repos\Homework week3\Homework week3\bin\Debug\net5.0\Hw3.deps.json
+C:\Users\Pluto\source\repos\Homework week3\Homework week3\bin\Debug\net5.0\Hw3.runtimeconfig.json
+C:\Users\Pluto\source\repos\Homework week3\Homework week3\bin\Debug\net5.0\Hw3.runtimeconfig.dev.json
+C:\Users\Pluto\source\repos\Homework week3\Homework week3\bin\Debug\net5.0\Hw3.dll
+C:\Users\Pluto\source\repos\Homework week3\Homework week3\bin\Debug\net5.0\ref\Hw3.dll
+C:\Users\Pluto\source\repos\Homework week3\Homework week3\bin\Debug\net5.0\Hw3.pdb
+C:\Users\Pluto\source\repos\Homework week3\Homework week3\obj\Debug\net5.0\Hw3.csproj.AssemblyReference.cache
+C:\Users\Pluto\source\repos\Homework week3\Homework week3\obj\Debug\net5.0\Hw3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pluto\source\repos\Homework week3\Homework week3\obj\Debug\net5.0\Hw3.AssemblyInfoInputs.cache
+C:\Users\Pluto\source\repos\Homework week3\Homework week3\obj\Debug\net5.0\Hw3.AssemblyInfo.cs
+C:\Users\Pluto\source\repos\Homework week3\Homework week3\obj\Debug\net5.0\Hw3.csproj.CoreCompileInputs.cache
+C:\Users\Pluto\source\repos\Homework week3\Homework week3\obj\Debug\net5.0\Hw3.dll
+C:\Users\Pluto\source\repos\Homework week3\Homework week3\obj\Debug\net5.0\ref\Hw3.dll
+C:\Users\Pluto\source\repos\Homework week3\Homework week3\obj\Debug\net5.0\Hw3.pdb
+C:\Users\Pluto\source\repos\Homework week3\Homework week3\obj\Debug\net5.0\Hw3.genruntimeconfig.cache
